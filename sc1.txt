@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TimeTable</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html>
+
+<body>
+
+	<table border="5" cellspacing="0" align="center">
+		<tr>
+            <td style="text-align:center" colspan="10" align="'center"
+             height="50" ><h2>BABU BANARSI DAS NORTHERN INDIA INSTITUE OF TECHNOLOGY</b>
+            </td>
+            </tr>
+        <tr>
+            <td style="text-align:center" rowspan="7"  height="50"
+	     width="100"><br>
+	     <h2> S<br>E<br>C<br>T<br>I<br>O<br>N<br>:<br>3<br>2</h2>
+            </td>
+            </tr>
+		<tr>
+			<td align="center" height="50"
+				width="100"><br>
+				<b>Day / Time</b></br>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>I<br>9:00-10:00</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>II<br>10:00-11:00</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>III<br>11:00-12:00</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>IV<br>12:00-1:00</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>1:00-2:00</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>V<br>2:00-3:00</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>VI<br>3:00-4:00</b>
+			</td>
+			<td align="center" height="50"
+				width="100">
+				<b>VII<br>4:00-5:00</b>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Monday</b></td>
+			<td align="center" height="50">L-DAA</td>
+			<td align="center" height="50">L-CD</td>
+            <td colspan="2" align="'center" height="50">P-DAA / P-MINI PROJ</td>-
+			<td rowspan="6" align="center" height="50">
+				<h2>L<br>U<br>N<br>C<br>H</h2>
+			</td>
+            <td align="center" height="50">L-WD</td>
+            <td align="center" height="50">L-DBMS</td>
+            <td align="center" height="50">LIBRARY</td>      
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Tuesday</b>
+			</td>
+            <td align="center" height="50">L-DBMS</td>
+            <td align="center" height="50">L-MLT</td>
+            <td align="center" height="50">L-DAA</td>     
+			<td align="center" height="50">L-CD</td>
+			<td align="center" height="50">T_DBMS / T_DAA</td>
+            <td colspan="2" align="'center" height="50">P-DBMS / P-CD</td>-
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Wednesday</b>
+			</td>
+			<td align="center" height="50">L-DBMS</td>
+			<td align="center" height="50">L-WD</td>
+            <td colspan="2" align="'center" height="50">P-DBMS / P-CD</td>
+            <td align="center" height="50">L-CI</td>
+            <td align="center" height="50">L-DAA</td>
+            <td align="center" height="50">L-MLT</td>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" height="50">
+				<b>Thursday</b>
+			</td>
+            <td align="center" height="50">L-DAA</td>
+            <td align="center" height="50">L-CD</td>
+            <td colspan="2" align="'center" height="50"> P-DAA / P-MINI PROJ</td>
+            <td align="center" height="50">L-MLT</td>
+			<td align="center" height="50">L-WD</td>
+            <td align="center" height="50">ORACLE</td>
+		</tr>
+			<td align="center" height="50">
+				<b>Friday</b>
+			</td>
+			<td align="center" height="50">L-CI</td>
+			<td align="center" height="50">L-CD</td>
+			<td align="center" height="50">L-DBMS</td>
+            <td align="center" height="50">T_DAA / T_CD</td>
+            <td align="center" height="50">L-MLT</td>
+            <td align="center" height="50">L-WD</td>
+            <td align="center" height="50">T_CD/T_DBMS</td>
+		</tr>
+	</table>
+</body>
+
+</html>
+
+    
+</body>
+</html>

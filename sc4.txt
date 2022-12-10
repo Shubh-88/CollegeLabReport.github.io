@@ -1,0 +1,13 @@
+<html>
+    <head>
+    <frameset rows="40%,60%" cols="50%,50%">
+        <frame src="image.html">
+
+        </frame>
+        <frame src="table.html"></frame>
+        <frame src="list.html"></frame>
+        <frame src="form.html"></frame>
+
+    </frameset>
+    </head>
+</html>
